@@ -1,5 +1,5 @@
 package inheritenceconcept;
 
-public class GamingPC extends DesktopPC{
+public class GamingPC extends Computer{
     
 }
